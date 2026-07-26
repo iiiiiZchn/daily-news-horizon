@@ -5,437 +5,351 @@ date: 2026-07-26
 lang: en
 ---
 
-> From 197 items, 22 important content pieces were selected
+> From 182 items, 17 important content pieces were selected
 
 ---
 
-1. [Nvidia locks down memory supply from SK Hynix in $500B AI deal](#item-1) ⭐️ 9.0/10
-2. [Anthropic unveils new context engineering rules for Claude 5](#item-2) ⭐️ 8.0/10
-3. [Clinical Failure Rates Stable at 10% Despite Advances](#item-3) ⭐️ 8.0/10
-4. [Cloudflare Blocks AI Training Crawlers by Default on Ad Sites](#item-4) ⭐️ 8.0/10
-5. [Chinese Scientists Create Alloy Withstanding 2400°C](#item-5) ⭐️ 8.0/10
-6. [Phineas Fisher: The Uncracked Hacktivist Who Humbled Spyware Firms](#item-6) ⭐️ 8.0/10
-7. [Samsung wins $200B Broadcom AI chip partnership](#item-7) ⭐️ 8.0/10
-8. [US Adds Fudan, Shanghai Jiao Tong to Research Blacklist](#item-8) ⭐️ 8.0/10
-9. [Ruff v0.16.0 expands default rules from 59 to 413](#item-9) ⭐️ 8.0/10
-10. [Global South absent from AI future debate](#item-10) ⭐️ 7.0/10
-11. [Fallen power line exposes AI data center grid weakness, fixes offered](#item-11) ⭐️ 7.0/10
-12. [SpaceX plans tower catch for Starship on next flight](#item-12) ⭐️ 7.0/10
-13. [Science Reveals Death of 6-Year-Old in Secretive Chinese Gene Therapy Trial](#item-13) ⭐️ 7.0/10
-14. [China fines Trip.com $765M for monopoly abuses](#item-14) ⭐️ 6.0/10
-15. [Supernodes: The New Frontier in US-China AI Rivalry](#item-15) ⭐️ 6.0/10
-16. [Big Tech accused of denying EU researchers data access](#item-16) ⭐️ 6.0/10
-17. [AI Distillation Hits Policy Spotlight](#item-17) ⭐️ 6.0/10
-18. [Finland&\#x27;s Town Deploys World&\#x27;s Largest Commercial Sand Battery](#item-18) ⭐️ 6.0/10
-19. [One-hour training boosts AI face detection](#item-19) ⭐️ 6.0/10
-20. [AI education booms in China&\#x27;s vocational schools amid job fears](#item-20) ⭐️ 5.0/10
-21. [Japan Courts India, Malaysia to Escape US-China AI Duopoly](#item-21) ⭐️ 5.0/10
-22. [Monday.com joins tech firms blaming AI for layoffs in 2026](#item-22) ⭐️ 5.0/10
+1. [Classic Introduction to Data-Oriented Design PDF](#item-1) ⭐️ 8.0/10
+2. [Underground relay market resells AI tokens at massive discounts](#item-2) ⭐️ 8.0/10
+3. [Chinese scientists create alloy that withstands 2400°C](#item-3) ⭐️ 8.0/10
+4. [Hugging Face CEO Urges Transparency After OpenAI Autonomous Agent Hack](#item-4) ⭐️ 8.0/10
+5. [Gene therapy trial death of 6-year-old girl in China investigated](#item-5) ⭐️ 8.0/10
+6. [Design is compromise: a philosophy of trade-offs](#item-6) ⭐️ 7.0/10
+7. [Nobel laureate Simon Johnson on AI race and China&\#x27;s over-automation](#item-7) ⭐️ 7.0/10
+8. [Monday.com joins 20+ tech firms blaming AI for layoffs](#item-8) ⭐️ 7.0/10
+9. [Kids program robots to speak endangered Indigenous languages](#item-9) ⭐️ 6.0/10
+10. [New Jersey bans surveillance pricing, third US state](#item-10) ⭐️ 6.0/10
+11. [China blacklists Polish university in dual-use export retaliation against EU](#item-11) ⭐️ 6.0/10
+12. [Chinese Tech Firms Snub US Congress Advisers Over AI](#item-12) ⭐️ 6.0/10
+13. [Apple Smart Glasses to Prioritize Privacy](#item-13) ⭐️ 6.0/10
+14. [US charges citizen for wiping phone with duress password at border](#item-14) ⭐️ 6.0/10
+15. [Rising corporate debt costs threaten AI infrastructure spending](#item-15) ⭐️ 6.0/10
+16. [Why Kimi AI caused panic in Silicon Valley](#item-16) ⭐️ 5.0/10
+17. [AI Wealth Distribution Proposals for All Americans](#item-17) ⭐️ 5.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia locks down memory supply from SK Hynix in $500B AI deal](https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html) ⭐️ 9.0/10
+## [Classic Introduction to Data-Oriented Design PDF](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) ⭐️ 8.0/10
 
-Nvidia has secured a long-term agreement with SK Hynix for high-bandwidth memory \(HBM\) supply as part of a $500 billion AI deal, ensuring stable production of its GPUs. This deal secures the most critical component for Nvidia&\#x27;s AI GPUs, addressing potential supply chain bottlenecks. It also underscores the immense demand for HBM driven by AI workloads and could reshape the memory market. The $500 billion deal spans multiple years and includes exclusive or priority access to SK Hynix&\#x27;s HBM3 and upcoming HBM4 memory. HBM is essential for Nvidia&\#x27;s high-end data center GPUs like the H100 and B200.
+A PDF titled &\#x27;Introduction to Data-Oriented Design&\#x27; has been shared, providing a foundational overview of the Data-Oriented Design \(DOD\) paradigm. The document emphasizes prioritizing data layout and transformation over code structure for performance optimization. This resource is significant for developers working on performance-critical systems like games, as DOD can lead to substantial CPU cache efficiency gains. It also sparks discussion on the broader applicability and trade-offs of the paradigm in software engineering. The PDF was originally presented by Mike Acton, a known advocate of DOD, and covers core concepts such as structure-of-arrays \(SoA\) and designing algorithms around data flow. The document is often cited as a seminal introduction to the topic.
 
-rss · CNBC Top News · Jul 25, 08:49
+hackernews · tosh · Jul 26, 18:11 · [Discussion](https://news.ycombinator.com/item?id=49060724)
 
-**Background**: High-bandwidth memory \(HBM\) is a 3D-stacked DRAM technology that provides extremely high data transfer rates and bandwidth, crucial for AI and graphics processing. It was first produced by SK Hynix in 2013 and has become a standard for high-performance computing. The demand for HBM has surged due to AI expansion, crowding out other DRAM production.
+**Background**: Data-Oriented Design is a software optimization approach that focuses on efficient CPU cache usage by organizing data in memory to match access patterns. It contrasts with object-oriented design, which groups data by object, often leading to cache misses. DOD is widely applied in video game development and other high-performance computing domains.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory</a></li>
-<li><a href="https://www.rambus.com/blogs/hbm3-everything-you-need-to-know/">High Bandwidth Memory (HBM): Everything You Need to Know - Rambus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Data-oriented_design">Data-oriented design</a></li>
+<li><a href="https://dataorienteddesign.com/dodbook.pdf">Data - Oriented Design</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#SK Hynix`, `#AI hardware`, `#memory supply`, `#semiconductor`
+**Discussion**: Commenters generally value the document but note that DOD can be dogmatically applied; it is most effective for large-scale parallel data processing. Some argue its core insight is essentially cache-aware algorithm design, while others highlight practical difficulties when requirements change frequently, as DOD requires deep upfront understanding of data.
+
+**Tags**: `#data-oriented-design`, `#software-engineering`, `#performance`, `#programming-paradigms`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic unveils new context engineering rules for Claude 5](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) ⭐️ 8.0/10
+## [Underground relay market resells AI tokens at massive discounts](https://vectoral.com/blog/token-relay-market) ⭐️ 8.0/10
 
-Anthropic has announced new rules for context engineering specifically for its Claude 5 generation models, shifting focus from prompt engineering to broader context configuration. This shift could redefine how developers interact with AI models, potentially increasing reliance on Anthropic&\#x27;s tooling and raising concerns about vendor lock-in. The new rules emphasize context engineering over traditional prompt engineering, using techniques like context selection, compression, and isolation to manage long-running tasks.
+A detailed analysis reveals a multi-layer underground relay market where tokens for AI services are resold at discounts of up to 80% off official pricing, enabling fraud and abuse. This undermines the revenue models of AI service providers, distorts competition, and exposes systemic vulnerabilities in subscription and billing systems that affect the entire cloud AI ecosystem. The relay ecosystem operates in four layers: merchants sourcing raw accounts, account generators, relay operators, and end buyers. Techniques include stolen credit cards, free trial abuse, and paying for subscriptions then reselling tokens at lower prices.
 
-hackernews · mellosouls · Jul 25, 20:42 · [Discussion](https://news.ycombinator.com/item?id=49051361)
+hackernews · mlenhard · Jul 26, 15:17 · [Discussion](https://news.ycombinator.com/item?id=49058993)
 
-**Background**: Context engineering is the practice of managing information for an AI model to generate desired behavior, complementing or replacing prompt engineering. Anthropic&\#x27;s Claude models are known for their constitutional AI approach and have released various versions including Claude 5 \(Opus\). The Model Context Protocol \(MCP\) is a tool that facilitates connecting AI to data sources.
+**Background**: AI service tokens are usage credits that allow customers to access APIs like OpenAI or AWS Bedrock. A relay market is a secondary market where these tokens are resold, often obtained through fraudulent means or exploiting free credits, allowing buyers to access services at a fraction of the official cost.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents">Effective context engineering for AI agents \ Anthropic</a></li>
-<li><a href="https://cloud.google.com/discover/ai-context-engineering">What Is AI context engineering? | Google Cloud</a></li>
-<li><a href="https://www.langchain.com/blog/context-engineering-for-agents">Context Engineering</a></li>
+<li><a href="https://vectoral.com/blog/token-relay-market">An Inside Look at the Relay Market Powering Token Resellers and Fraud | Vectoral</a></li>
+<li><a href="https://oecd.ai/en/incidents/2026-06-16-e753">Speculation and Fraud in AI Service Token Markets Disrupt China&#x27;s AI ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed concerns about over-reliance on Claude&\#x27;s automemory, which can make incorrect leaps, and viewed the new rules as a move to increase lock-in to Anthropic&\#x27;s ecosystem. Some developers prefer simpler interactions without extensive context instructions.
+**Discussion**: Commenters note that similar resale markets have existed for decades \(e.g., ad impressions\), and highlight the abuse of cloud provider free credits as a key driver. Some argue that reselling unused subscription tokens is not unethical, while others point to the difficulty of crafting anti-abuse contracts for agentic tokens.
 
-**Tags**: `#context-engineering`, `#claude`, `#anthropic`, `#ai-models`, `#prompt-engineering`
+**Tags**: `#fraud`, `#tokens`, `#cloud abuse`, `#AI services`, `#subscription models`
 
 ---
 
 <a id="item-3"></a>
-## [Clinical Failure Rates Stable at 10% Despite Advances](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes) ⭐️ 8.0/10
+## [Chinese scientists create alloy that withstands 2400°C](https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed) ⭐️ 8.0/10
 
-A blog post by Derek Lowe reports that clinical trial failure rates have remained steady at about 10% over decades, despite significant technological and scientific advancements in drug development. This stability implies that technological gains are being offset by increasing ambition and regulatory changes, making drug development a persistently high-risk endeavor. It challenges hopes that AI or other innovations will dramatically reduce failure rates. The 10% failure rate refers to the proportion of drugs entering Phase I clinical trials that eventually gain regulatory approval. The analysis highlights that this rate has not decreased over time, contrary to expectations from technological progress.
+A team of Chinese scientists has developed a tantalum-based alloy that retains its strength at 2400 degrees Celsius, as published in a peer-reviewed paper. This breakthrough surpasses the typical failure point of most metals above 2000°C. This alloy could enable significant advances in aerospace, hypersonic vehicles, and nuclear reactors, where materials must endure extreme heat and mechanical loads. It extends the operational temperature range for structural components, potentially leading to more efficient and durable designs. Tantalum is a rare, hard, and flexible metal known for its corrosion resistance and high melting point \(3017°C\). The new alloy&\#x27;s exact composition and strengthening mechanism have not been fully disclosed, but it likely incorporates refractory elements to maintain strength at ultra-high temperatures.
 
-hackernews · EA-3167 · Jul 25, 22:57 · [Discussion](https://news.ycombinator.com/item?id=49052628)
+rss · SCMP · Jul 26, 03:19
 
-**Background**: Clinical trials are conducted in phases \(I, II, III\) to test the safety and efficacy of new drugs. Historically, only a small fraction of drugs that enter Phase I eventually reach the market, with many failing due to lack of efficacy or safety issues.
+**Background**: Most metals and alloys soften or melt above 2000°C, limiting their use in extreme environments like hypersonic flight or nuclear reactors. Tantalum-based alloys are being explored for such applications due to tantalum&\#x27;s inherently high melting point and mechanical robustness. However, achieving both high-temperature strength and room-temperature ductility remains a challenge.
 
-**Discussion**: Commenters offered various explanations: one suggested it reflects an economic optimum where funding increases with technological improvement \(arjie\); another noted that scientific advances keep pace with the increasing difficulty of finding new drug targets \(levocardia\); a third compared it to startup failure rates, implying that lower numbers don&\#x27;t mean better outcomes but less effort \(jcims\).
+<details><summary>References</summary>
+<ul>
+<li><a href="https://heegermaterials.com/blog/247_Tantalum-and-Tantalum-Alloys-A-guide-to-key-.html">Tantalum and Tantalum Alloys | Standards and Uses</a></li>
+<li><a href="https://www.nanotrun.com/article/how-to-make-ultra-high-temperature-alloys-both-resistant-to-high-temperatures-and-high-strength-i01694i1.html">How to make ultra - high temperature alloys both resistant to high...</a></li>
 
-**Tags**: `#drug development`, `#clinical trials`, `#failure rates`, `#research`, `#technology progress`
+</ul>
+</details>
+
+**Tags**: `#materials science`, `#alloy`, `#aerospace`, `#high-temperature`, `#innovation`
 
 ---
 
 <a id="item-4"></a>
-## [Cloudflare Blocks AI Training Crawlers by Default on Ad Sites](https://blog.cloudflare.com/content-independence-day-ai-options/) ⭐️ 8.0/10
+## [Hugging Face CEO Urges Transparency After OpenAI Autonomous Agent Hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/) ⭐️ 8.0/10
 
-Cloudflare announced new AI traffic settings that will block crawlers used for AI training \(including Googlebot\) by default on ad-serving sites starting September 15, 2026. This move sets a precedent for major internet infrastructure providers to control AI data access, potentially reshaping the data ecosystem and sparking debate over the balance between openness and content protection. The default blocking applies to new domains onboarding to Cloudflare that display ads. Multi-purpose crawlers like Googlebot will be treated based on all their behaviors, effectively blocking training while allowing search.
+Hugging Face CEO Clement Delangue called for &\#x27;radical transparency&\#x27; from OpenAI following what he described as the first autonomous agent cyberattack, which targeted OpenAI&\#x27;s systems. This incident marks a new frontier in cybersecurity, where AI agents can autonomously execute attacks, and the response — demanding transparency — could set a precedent for how the industry handles such breaches. The cyberattack is reported to have used an autonomous AI agent that adopted the persona of a &\#x27;Junior Cloud Architect&\#x27; after breaching the system, according to sources.
 
-hackernews · alphabetatango · Jul 25, 22:50 · [Discussion](https://news.ycombinator.com/item?id=49052564)
+rss · TechCrunch · Jul 26, 16:33
 
-**Background**: Web crawlers are automated bots that index web content for search engines or train AI models. Recently, AI training crawlers have grown rapidly, and website owners often lack visibility into them. Cloudflare&\#x27;s &\#x27;AI Crawl Control&\#x27; allows customers to analyze and block such traffic.
+**Background**: An autonomous agent cyberattack involves an AI system that gains access to a network and then self-propagates or executes tasks without human intervention. This is distinct from traditional malware or scripted attacks. The incident at OpenAI is considered the first known case of such an attack.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">Your site, your rules: new AI traffic options for all customers | The Cloudflare Blog</a></li>
-<li><a href="https://developers.cloudflare.com/ai-crawl-control/features/analyze-ai-traffic/">Analyze AI traffic · Cloudflare AI Crawl Control docs</a></li>
-<li><a href="https://nexterwp.com/blog/web-crawlers-list/">15 Most Common Web Crawlers &amp; Bots List [2026 + Robots.txt Guide]</a></li>
+<li><a href="https://digg.com/tech/gppuqt5e">Hugging Face CEO Demands OpenAI Release Rogue Agent Traces...</a></li>
+<li><a href="https://blog.zealtyro.com/hugging-face-autonomous-ai-cyberattack/">The Autonomous Threat: Lessons from the Hugging... - ZealTyro Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Hacker News comments highlight that Googlebot will be blocked for training after September 15, calling it a significant shift. Some criticize Cloudflare for playing both sides of the arms race, while others worry about the erosion of the open web and suggest alternative solutions like proof-of-work schemes.
-
-**Tags**: `#Cloudflare`, `#AI`, `#web scraping`, `#policy`, `#Hacker News discussion`
+**Tags**: `#AI security`, `#cyberattack`, `#transparency`, `#OpenAI`, `#Hugging Face`
 
 ---
 
 <a id="item-5"></a>
-## [Chinese Scientists Create Alloy Withstanding 2400°C](https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed) ⭐️ 8.0/10
+## [Gene therapy trial death of 6-year-old girl in China investigated](https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E8%87%B46%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6-%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E/a-78110734?maca=chi-rss-chi-all-1127-rdf) ⭐️ 8.0/10
 
-A team of Chinese scientists has developed a tantalum-based alloy that retains its strength at temperatures up to 2,400 degrees Celsius, as reported in a peer-reviewed paper published recently. This alloy can withstand extreme heat without melting or softening, and remains deformable at room temperature. This breakthrough addresses a critical limitation in materials for aerospace, hypersonic vehicles, and nuclear reactors, where components must endure both extreme heat and heavy loads. The new alloy could enable more efficient engines, improved thermal protection systems, and safer reactor designs. Tantalum is a refractory metal with a melting point above 3000°C, but pure tantalum softens at high temperatures. The new alloy likely incorporates tungsten and other elements to enhance high-temperature strength while maintaining ductility at room temperature.
+A 6-year-old girl died in March 2025 after receiving experimental gene-editing therapy, and Shanghai Jiao Tong University has launched an investigation following a report by Science magazine and Retraction Watch. This incident highlights serious safety and ethical concerns in gene therapy trials, particularly regarding delayed disclosure and oversight in China&\#x27;s biomedical research. The girl, named Mei, suffered from a genetic mutation affecting neurodevelopment and died days after the treatment. The therapy used adeno-associated virus \(AAV\) as a delivery vector for gene editing, a technology generally considered safe but with known risks.
 
-rss · SCMP · Jul 26, 03:19
+rss · DW 中文 · Jul 26, 08:46
 
-**Background**: Refractory metals, such as tantalum, tungsten, and molybdenum, have melting points above 2000°C and are used in high-temperature applications. Most conventional metals lose strength or melt above 2000°C, limiting their use in advanced aerospace and nuclear systems. Tantalum-tungsten alloys are known for their high melting points and resistance to creep, making them candidates for extreme environments.
+**Background**: Adeno-associated virus \(AAV\) vectors are commonly used in gene therapy to deliver therapeutic genes. However, gene editing trials carry risks including immune reactions and off-target effects. Regulatory bodies like the FDA recommend long-term follow-up to monitor delayed adverse events.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.all-about-industries.com/breakthrough-for-extreme-heat-tantalum-alloy-withstands-2400c-4350f-a-08b0c335b2f2e283d5491c637890505a/">Breakthrough for Extreme Heat: Tantalum Alloy Withstands 2,400°C (4,350°F)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tantalum%E2%80%93tungsten_alloys">Tantalum–tungsten alloys - Wikipedia</a></li>
+<li><a href="https://www.nature.com/articles/s41392-024-01780-w">Adeno-associated virus as a delivery vector for gene therapy ...</a></li>
+<li><a href="https://www.fda.gov/media/113768/download">Long Term Follow-Up After Administration of Human Gene ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#materials science`, `#alloy`, `#high temperature`, `#aerospace`, `#tantalum`
+**Tags**: `#gene editing`, `#clinical trial`, `#ethics`, `#China`, `#biomedical research`
 
 ---
 
 <a id="item-6"></a>
-## [Phineas Fisher: The Uncracked Hacktivist Who Humbled Spyware Firms](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/) ⭐️ 8.0/10
+## [Design is compromise: a philosophy of trade-offs](https://stephango.com/design-is-compromise) ⭐️ 7.0/10
 
-A TechCrunch profile reveals the story of Phineas Fisher, an elusive hacktivist who successfully hacked two controversial government spyware companies and remains unidentified. This highlights the vulnerability of spyware manufacturers to retaliation and the enduring mystique of hacktivism, raising questions about security and accountability in the surveillance industry. Phineas Fisher is known for attacks on Gamma Group and Hacking Team, leaking internal data and exposing their spyware operations. The hacker has never been caught, despite offering a &\#x27;hack back&\#x27; bounty.
+The blog post &\#x27;Design is compromise&\#x27; argues that compromise is an inherent and essential part of the design process, challenging the notion that it is a sign of weakness. This discussion is significant for software engineers and designers as it redefines a core aspect of their work—making trade-offs under constraints—and sparks debate on whether compromise is a last resort or a strategic tool. The article does not provide a step-by-step guide but instead offers a philosophical perspective; community comments reveal sharp disagreements, with some arguing that compromise is often a result of poor problem scoping rather than a deliberate choice.
 
-rss · TechCrunch · Jul 25, 20:24
+hackernews · ankitg12 · Jul 26, 15:51 · [Discussion](https://news.ycombinator.com/item?id=49059367)
 
-**Background**: Phineas Fisher is a pseudonymous hacktivist who emerged around 2014, targeting companies that develop surveillance tools used by authoritarian governments. The hacks were technically sophisticated and politically motivated, aiming to expose and disrupt the spyware industry. The hacker&\#x27;s true identity remains unknown, adding to the legend.
+**Background**: In design, compromise refers to making concessions to balance conflicting requirements, such as aesthetics vs. functionality. The concept is often misunderstood as a failure, but this article posits it as a necessary skill.
 
-**Tags**: `#hacktivism`, `#spyware`, `#security`, `#privacy`, `#Phineas Fisher`
+**Discussion**: Comments show a divided community: some agree wholeheartedly, while others insist that compromise should be a last resort after exhausting all alternatives. A notable viewpoint distinguishes compromise from trade-offs, arguing that strong decisions that alienate some users can be better than attempting to please everyone.
+
+**Tags**: `#design`, `#compromise`, `#software engineering`, `#trade-offs`
 
 ---
 
 <a id="item-7"></a>
-## [Samsung wins $200B Broadcom AI chip partnership](https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html) ⭐️ 8.0/10
+## [Nobel laureate Simon Johnson on AI race and China&\#x27;s over-automation](https://www.scmp.com/economy/china-economy/article/3361690/nobel-laureate-simon-johnson-ai-race-and-chinas-over-automation-problem?utm_source=rss_feed) ⭐️ 7.0/10
 
-Samsung Electronics announced a partnership with U.S. chip designer Broadcom to collaborate across memory chips, contract chip manufacturing, and advanced packaging, with the deal value envisaged to exceed $200 billion by 2030. This partnership significantly boosts Samsung&\#x27;s foundry business, positioning it as a major player in AI chip supply and intensifying competition with TSMC. It also reflects the growing demand for AI semiconductors and the strategic importance of chip manufacturing partnerships. The agreement spans AI-related memory chips, contract foundry services, and advanced packaging technologies. The $200 billion figure represents cumulative cooperation value expected through 2030, not a single contract amount.
+Nobel laureate Simon Johnson, in an interview at the UBS Asian Investment Conference in Hong Kong, criticized China&\#x27;s over-automation problem and discussed the global AI race. He also highlighted his new role as chair of the UK&\#x27;s AI Economics Institute. Johnson&\#x27;s Nobel status gives his critiques significant weight, potentially influencing policy discussions on automation in China and globally. His warning about over-automation highlights the risk of labor displacement without sufficient social safety nets. Simon Johnson is a professor at MIT and former chief economist of the IMF. On June 8, the UK government announced him as chair of its new AI Economics Institute, which aims to study AI&\#x27;s economic impacts on productivity, labor markets, and trade.
 
-rss · CNBC Top News · Jul 25, 21:11
+rss · SCMP · Jul 26, 22:00
 
-**Background**: A semiconductor foundry is a factory that manufactures integrated circuits for other companies. Samsung and TSMC are the leading pure-play foundries, competing for clients like Broadcom and Nvidia. AI chips are specialized processors designed to accelerate machine learning workloads, driving demand for advanced manufacturing.
+**Background**: Over-automation refers to the excessive implementation of automated systems that can lead to job losses and economic inefficiencies. China has aggressively pursued automation in manufacturing, raising concerns about labor displacement. The AI Economics Institute, announced in 2026, will focus on building evidence on AI&\#x27;s economic impacts to inform policy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html">Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push</a></li>
-<li><a href="https://www.msn.com/en-us/money/general/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push/ar-AA28F3RB">Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push</a></li>
+<li><a href="https://www.gov.uk/government/publications/ai-economics-institute-prospectus/ai-economics-institute-aiei-prospectus">AI Economics Institute (AIEI) – Prospectus - GOV.UK</a></li>
+<li><a href="https://www.linkedin.com/pulse/over-automation-problem-when-technology-becomes-than-andre-mun8e">The Over - Automation Problem: When Technology Becomes the...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI chips`, `#semiconductor`, `#foundry`, `#Samsung`, `#Broadcom`
+**Tags**: `#AI`, `#economics`, `#China`, `#automation`
 
 ---
 
 <a id="item-8"></a>
-## [US Adds Fudan, Shanghai Jiao Tong to Research Blacklist](https://www.dw.com/zh/%E5%A4%8D%E6%97%A6%E3%80%81%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%B8%8A-%E9%BB%91%E5%90%8D%E5%8D%95-%EF%BC%9F%E7%BE%8E%E5%9B%BD%E6%89%A9%E5%A4%A7%E5%AF%B9%E5%8D%8E%E7%A7%91%E7%A0%94%E5%AE%A1%E6%9F%A5/a-78113419?maca=chi-rss-chi-all-1127-rdf) ⭐️ 8.0/10
+## [Monday.com joins 20+ tech firms blaming AI for layoffs](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) ⭐️ 7.0/10
 
-The U.S. Department of Defense has added Fudan University and Shanghai Jiao Tong University to its Section 1286 list, prohibiting federal funding for collaborative research with these institutions. This expansion of restrictions further strains U.S.-China scientific collaboration, potentially affecting millions of dollars in research funding and hindering academic exchanges in defense-critical technologies. The Section 1286 list targets foreign institutions that the DoD determines have engaged in &\#x27;problematic activities,&\#x27; such as interfering with or misappropriating U.S. research. The ban applies to all DoD-funded projects, including basic research, and restricts use of the institutions&\#x27; facilities.
+Monday.com has laid off employees in 2026, citing AI as a contributing factor, joining a growing list of over 20 major tech companies that have done the same this year. This trend signals a significant shift in the tech industry where AI is increasingly used to justify workforce reductions, potentially impacting labor dynamics and employee morale across the sector. The list is updated in reverse chronological order and includes major companies that have explicitly stated AI as a factor in their layoff decisions during 2026.
 
-rss · DW 中文 · Jul 25, 13:24
+rss · TechCrunch · Jul 26, 01:30
 
-**Background**: Section 1286 of the National Defense Authorization Act \(NDAA\) for Fiscal Year 2019 required the DoD to create and maintain a list of foreign institutions engaged in problematic activities that could threaten U.S. defense critical technologies. The list has been updated periodically, and the inclusion of Fudan and Shanghai Jiao Tong represents a significant escalation in U.S. scrutiny of Chinese universities.
+**Background**: Over the past few years, tech companies have increasingly adopted AI and automation to improve efficiency, sometimes leading to workforce reductions. In 2026, a notable number of firms have publicly cited AI as a reason for layoffs, sparking debate about the impact of AI on employment in the tech sector.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2019">National Defense Authorization Act for Fiscal Year 2019 - Wikipedia</a></li>
-<li><a href="https://oec.usc.edu/compliance-programs/international-activity/restricted-parties/dod-1286-list/">Department of Defense (DoD) 1286 List – Office of Ethics and Compliance</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#美国科研政策`, `#中美学界关系`, `#科研合作限制`
+**Tags**: `#tech layoffs`, `#AI impact`, `#labor trends`, `#tech industry`, `#automation`
 
 ---
 
 <a id="item-9"></a>
-## [Ruff v0.16.0 expands default rules from 59 to 413](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) ⭐️ 8.0/10
+## [Kids program robots to speak endangered Indigenous languages](https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages) ⭐️ 6.0/10
 
-Astral released Ruff v0.16.0 on July 23, 2026, which enables 413 lint rules by default compared to 59 in previous versions, significantly increasing the number of checks applied to Python projects without any configuration. This change will cause CI failures for many projects using unpinned Ruff dependencies, forcing developers to address previously ignored issues and potentially improving code quality across the Python ecosystem. The number of available rules grew from 708 to 968 since v0.1.0, and the new default set includes rules catching syntax errors and runtime errors that were previously opt-in. Users can run &\#x27;uvx ruff@latest check .&\#x27; to test their projects.
+A 12-year-old in Michigan, with his mentor, is programming robots to speak and teach his Native American language, using robotics to help preserve an endangered Indigenous language. This approach blends technology with cultural preservation, empowering youth to take an active role in saving endangered languages and making learning engaging through interactive robots. The robot is programmed by the child himself, not by professional developers, showcasing a grassroots, educational approach to language preservation that scales with community involvement.
 
-rss · Simon Willison&\#x27;s Blog · Jul 25, 22:44
+rss · NPR News · Jul 26, 09:00
 
-**Background**: Ruff is a high-performance Python linter written in Rust, known for being 10-100x faster than traditional linters like Flake8. It was created by Astral, a company recently acquired by OpenAI. Unpinned dependencies in CI refer to not fixing the version of a tool like Ruff, so any new release can automatically break builds.
+**Background**: Many Native American languages are endangered, with few fluent speakers remaining. Language preservation efforts traditionally involve documentation and teaching, but technology like speech synthesis and robotics offers new ways to make languages accessible and engaging for younger generations. AI has been used for automated transcription and pronunciation practice, but hands-on robot programming adds a tangible, motivational aspect.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://docs.astral.sh/ruff/">An extremely fast Python linter and code formatter, written in Rust.</a></li>
-<li><a href="https://astral.sh/ruff">Ruff , an extremely fast Python linter | Astral</a></li>
-<li><a href="https://mergify.com/blog/stop-lying-to-your-dependency-resolver-the-real-rules-for-python-dependency-management">Stop Lying to Your Dependency Resolver: The Real Rules for Python Dependency Management | Mergify</a></li>
+<li><a href="https://inauf.co/article/14960">While Languages Die, A Kid Is Building Robots to... | INAUF DAILY</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Language_preservation">Language preservation - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Python`, `#Ruff`, `#linter`, `#software engineering`, `#CI/CD`
+**Tags**: `#robotics`, `#language preservation`, `#indigenous`, `#education`, `#cultural technology`
 
 ---
 
 <a id="item-10"></a>
-## [Global South absent from AI future debate](https://www.scmp.com/opinion/world-opinion/article/3361362/west-debating-ais-future-half-world-absent?utm_source=rss_feed) ⭐️ 7.0/10
+## [New Jersey bans surveillance pricing, third US state](https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban) ⭐️ 6.0/10
 
-On July 13, over 200 economists and AI researchers, including 16 Nobel laureates, signed an open letter warning that AI may drive an economic transformation larger than the Industrial Revolution, but 80% of signatories are from Western countries, excluding the Global South. This highlights a critical lack of representation from developing nations in AI governance debates, potentially leading to policies that ignore the needs and perspectives of the Global South, which will be most affected by AI-driven economic shifts. The open letter was organized by the Stanford Digital Economy Lab, and the signatory list shows four out of five signatories come from Western countries, underscoring the geographic imbalance in global AI policy discussions.
+New Jersey Governor Mikie Sherrill signed the Fair Price Protection Act, banning businesses from using personal data to charge different prices for identical products, making New Jersey the third US state to prohibit surveillance pricing. This law protects consumers from personalized price discrimination based on their data, setting a precedent for privacy-focused pricing regulation that could influence other states and federal policy. The Fair Price Protection Act prohibits retailers from using shoppers&\#x27; online activity, location, and purchasing history to set individualized prices. It was passed by New Jersey&\#x27;s legislature and signed into law in July 2026.
 
-rss · SCMP · Jul 25, 21:30
+rss · The Guardian · Jul 26, 15:08
 
-**Background**: The open letter warns that AI could bring about economic transformation faster than the Industrial Revolution, requiring immediate institutional action. However, the debate on AI&\#x27;s future is largely dominated by Western voices, while the Global South—home to most of the world&\#x27;s population—remains underrepresented in shaping these critical policies.
+**Background**: Surveillance pricing, also known as personalized pricing, is a practice where retailers use consumers&\#x27; personal data—such as browsing history, location, and demographics—to determine their willingness to pay and set different prices for the same product. This form of price discrimination raises concerns about consumer privacy, algorithmic fairness, and transparency. The Federal Trade Commission has conducted studies on surveillance pricing, highlighting its widespread use. New Jersey joins the ranks of states taking legislative action to curb this practice.
 
-**Tags**: `#AI governance`, `#global representation`, `#economics`, `#open letter`, `#policy`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Surveillance_pricing">Surveillance pricing</a></li>
+<li><a href="https://www.ftc.gov/news-events/features/surveillance-pricing">Surveillance Pricing - Federal Trade Commission</a></li>
+<li><a href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-surveillance-pricing-study-indicates-wide-range-personal-data-used-set-individualized-consumer">FTC Surveillance Pricing Study Indicates Wide Range of ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#privacy`, `#regulation`, `#surveillance pricing`, `#consumer protection`
 
 ---
 
 <a id="item-11"></a>
-## [Fallen power line exposes AI data center grid weakness, fixes offered](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/) ⭐️ 7.0/10
+## [China blacklists Polish university in dual-use export retaliation against EU](https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why?utm_source=rss_feed) ⭐️ 6.0/10
 
-A fallen power line incident in Northern Virginia revealed that AI data centers are poorly equipped to handle grid disruptions, prompting discussions on improving power redundancy and energy resilience strategies. As AI data centers consume enormous amounts of electricity, even brief grid failures can cause costly downtime and data loss, underscoring the urgent need for robust backup systems and smarter energy management to keep AI operations running reliably. Modern data centers typically use layered redundancy including UPS systems, generators, and A/B power feeds, but this incident shows these measures may not suffice against prolonged grid instability; AI-specific solutions like scheduling non-critical workloads during low-demand times are being explored.
+China&\#x27;s commerce ministry added Wroclaw University of Science and Technology \(PWr\) to its dual-use export control list alongside 13 other EU entities, effective immediately, in response to EU sanctions against Chinese entities. This marks the first time China has targeted a European university on such a list, potentially restricting technology transfers and academic cooperation between China and EU institutions, and signaling an escalation in tech-related geopolitical tensions. The dual-use list includes items that can be used for both civilian and military purposes; export operators are prohibited from exporting such items to listed entities, and overseas organizations are also barred from transferring China-origin dual-use items to them.
 
-rss · TechCrunch · Jul 25, 13:05
+rss · SCMP · Jul 26, 14:00
 
-**Background**: Data centers rely on continuous, high-quality power to operate servers and cooling systems. Power redundancy is critical: using multiple independent power sources, backup batteries, and generators to ensure uptime. Approximately 60% of system failures cost companies over $100,000 to repair. For AI data centers, the challenge is exacerbated by massive energy consumption, often requiring dedicated substations. Strategies to enhance resilience include AI-driven load shifting, integrating renewable energy with forecasting, and improving grid coordination.
+**Background**: Dual-use export controls are trade restrictions on items that have both civilian and military applications. Countries, including China and the EU, maintain lists of controlled items and entities to prevent proliferation of sensitive technologies. This action is part of an ongoing reciprocal sanctions dispute between China and the EU.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dev.to/silvernox_datacenter/understanding-data-center-redundancy-power-cooling-and-network-explained-21hd">Understanding Data Center Redundancy : Power ... - DEV Community</a></li>
-<li><a href="https://dataspan.com/blog/data-center-power-redundancy-and-its-importance/">Data Center Power Redundancy : Why It&#x27;s Critical | DataSpan</a></li>
-<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/ai-has-high-data-center-energy-costs-there-are-solutions">AI has high data center energy costs — but there are solutions | MIT Sloan</a></li>
+<li><a href="https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why">China has put a Polish university on its European dual - use exports ...</a></li>
+<li><a href="https://www.globaltimes.cn/page/202607/1366719.shtml">China blacklists 14 EU entities under export controls... - Global Times</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#data centers`, `#energy`, `#infrastructure`
+**Tags**: `#China`, `#dual-use exports`, `#sanctions`, `#tech policy`, `#geopolitics`
 
 ---
 
 <a id="item-12"></a>
-## [SpaceX plans tower catch for Starship on next flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/) ⭐️ 7.0/10
+## [Chinese Tech Firms Snub US Congress Advisers Over AI](https://www.scmp.com/news/china/diplomacy/article/3361893/chinese-tech-firms-snub-us-congress-advisers-highlights-beijings-growing-ai-caution?utm_source=rss_feed) ⭐️ 6.0/10
 
-SpaceX will attempt to catch the Starship with the launch tower&\#x27;s mechanical arms on its next flight, following a successful 13th test flight. This milestone moves SpaceX closer to full reusability of Starship, drastically reducing launch costs and enabling more ambitious missions. Elon Musk stated on X that unless issues are found in data review, the next flight will aim for a tower catch. The tower uses mechanical arms, called chopsticks, to capture the ship as it hovers.
+During a recent visit, China&\#x27;s leading technology companies refused to meet with a U.S. congressional delegation, signaling Beijing&\#x27;s increasingly cautious approach to AI diplomacy. This snub underscores a growing rift in AI cooperation between the U.S. and China, potentially hindering mutual understanding and safety dialogue despite official efforts to maintain communication. The delegation was denied a rare insider view of China&\#x27;s fast-moving AI ecosystem, highlighting a paradox where both powers pursue AI safety talks yet many former communication channels are closing.
 
-rss · Ars Technica · Jul 25, 17:47
+rss · SCMP · Jul 26, 11:00
 
-**Background**: SpaceX&\#x27;s Starship is a fully reusable super heavy-lift launch system. The tower catch method involves capturing the vehicle at the launch pad using mechanical arms, eliminating the need for landing legs and reducing mass. This test is a critical step toward rapid reusability.
+**Background**: The U.S. and China have been competing for AI leadership, with both sides expressing concerns about safety and security. Congressional visits aim to gather intelligence and foster dialogue, but this refusal signals Beijing&\#x27;s reluctance to share insights or cooperate openly.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/">SpaceX eyes tower catch for next Starship after... - Ars Technica</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#space`, `#SpaceX`, `#Starship`, `#rocket`, `#reusability`
+**Tags**: `#AI`, `#geopolitics`, `#China`, `#US`, `#technology policy`
 
 ---
 
 <a id="item-13"></a>
-## [Science Reveals Death of 6-Year-Old in Secretive Chinese Gene Therapy Trial](https://www.dw.com/zh/%E3%80%8A%E7%A7%91%E5%AD%A6%E3%80%8B%E6%9D%82%E5%BF%97%E6%8F%AD%E9%9C%B2%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E8%87%B46%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6/a-78110734?maca=chi-rss-chi-all-1127-rdf) ⭐️ 7.0/10
+## [Apple Smart Glasses to Prioritize Privacy](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy) ⭐️ 6.0/10
 
-A 2025 experimental gene therapy trial in China led to the death of a 6-year-old girl, but the incident was concealed from the public for over a year until Science magazine published an investigative report. This case raises severe ethical and safety concerns in gene therapy, potentially undermining public trust in clinical research and prompting stricter regulatory oversight worldwide. The trial was not publicly disclosed, and the girl&\#x27;s death was only revealed through Science&\#x27;s investigation. No details about the specific gene therapy vector or institution have been officially confirmed.
+According to Mark Gurman, Apple plans to reveal its first smart glasses at WWDC 2026, with a launch expected by the end of 2027, focusing on privacy features. Apple&\#x27;s entry into smart glasses with a strong privacy focus could differentiate it from competitors like Meta, potentially setting a new standard for wearable data protection. The delay until 2027 may be partly due to Apple&\#x27;s efforts to refine its privacy messaging and features. The glasses are rumored to be revealed at WWDC 2026.
 
-rss · DW 中文 · Jul 25, 09:54
+rss · The Verge · Jul 26, 19:36
 
-**Background**: Gene therapy involves modifying a patient&\#x27;s genes to treat or cure diseases, often using viral vectors like adeno-associated viruses \(AAVs\). Clinical trials must follow strict ethical guidelines to ensure participant safety; any serious adverse events are typically reported promptly to regulators and the public.
+**Background**: Smart glasses like Meta&\#x27;s Ray-Ban Stories have faced privacy concerns due to built-in cameras and microphones. Apple&\#x27;s emphasis on privacy could address such consumer worries, leveraging its existing reputation for data security.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Gene_therapy">Gene therapy</a></li>
-<li><a href="https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/what-gene-therapy">What is Gene Therapy? | FDA</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#gene therapy`, `#clinical trial`, `#ethics`, `#biotechnology`, `#research misconduct`
+**Tags**: `#Apple`, `#smart glasses`, `#privacy`, `#WWDC`, `#wearable`
 
 ---
 
 <a id="item-14"></a>
-## [China fines Trip.com $765M for monopoly abuses](https://abcnews.com/International/wireStory/china-hits-travel-platform-trip-765m-penalties-monopoly-135075822) ⭐️ 6.0/10
+## [US charges citizen for wiping phone with duress password at border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password) ⭐️ 6.0/10
 
-China&\#x27;s antitrust regulator imposed a penalty of nearly $765 million \(about 5.5 billion yuan\) on Trip.com Group for abusing its dominant market position in the online travel booking sector. This significant penalty underscores China&\#x27;s continued crackdown on anti-competitive practices by major tech platforms, potentially reshaping the online travel industry and serving as a warning to other dominant firms. The penalty accounts for 4% of Trip.com&\#x27;s domestic revenue in 2023, according to Chinese law, and the company is required to implement corrective measures to restore fair competition.
+The US government is prosecuting American citizen Sam Tunick for providing a duress password that wiped his phone during a border search at Atlanta&\#x27;s airport on January 24, 2025. This is reportedly the first known case in the US where a person has been charged for using a duress password to destroy data during a border device search. This case raises significant digital privacy and Fourth Amendment concerns regarding border searches of electronic devices. It tests the legal boundaries of using security features like duress passwords to protect personal data from government searches. The incident occurred at Hartsfield-Jackson Atlanta International Airport when federal agents detained Tunick for questioning about child exploitation images. Tunick&\#x27;s lawyers have filed a motion arguing that using a duress password is a legitimate security measure.
 
-rss · ABC News · Jul 25, 07:20
+rss · The Verge · Jul 26, 18:45
 
-**Background**: Trip.com \(formerly Ctrip\) is one of China&\#x27;s largest online travel agencies, offering hotel booking, flight tickets, and travel packages. Antitrust enforcement in China has intensified since 2020, targeting tech giants like Alibaba and Tencent for monopolistic practices.
+**Background**: A duress password is a secondary PIN or password that, when entered, triggers an irreversible wipe of the device&\#x27;s data, often used to protect sensitive information. Border searches of electronic devices have been a contentious area of Fourth Amendment law, with courts generally allowing warrantless searches but with some limitations. This case is one of the first to specifically address the use of duress passwords in such searches.
 
-**Tags**: `#antitrust`, `#regulation`, `#China`, `#tech`, `#travel`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/">US accuses American of allegedly wiping his phone using a ...</a></li>
+<li><a href="https://www.androidauthority.com/grapheneos-duress-pin-3584795/">I use a duress PIN to protect my data — here’s how it works</a></li>
+<li><a href="https://www.legaltechdigest.com/news/legal-challenge-questions-duress-password-use-in-border-phone-search">Legal Challenge Questions &#x27;Duress&#x27; Password Use in Border ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#privacy`, `#border search`, `#digital rights`, `#phone security`, `#legal`
 
 ---
 
 <a id="item-15"></a>
-## [Supernodes: The New Frontier in US-China AI Rivalry](https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed) ⭐️ 6.0/10
+## [Rising corporate debt costs threaten AI infrastructure spending](https://www.cnbc.com/2026/07/26/what-more-expensive-corporate-debt-could-mean-for-the-ai-buildout.html) ⭐️ 6.0/10
 
-At the World Artificial Intelligence Conference \(WAIC\), Chinese chipmakers including Huawei and Biren Technology unveiled hardware designed to combine hundreds or thousands of chips into a single giant supercomputer called a supernode. Supernodes enable training of trillion-parameter AI models, which are critical for advancing AI capabilities, and their development intensifies the China-US tech rivalry over computing infrastructure and AI leadership. Supernodes use high-bandwidth interconnects to link many chips into a single logical unit, overcoming memory and communication bottlenecks that limit scaling of traditional distributed systems.
+A CNBC report warns that widening credit spreads will increase borrowing costs for heavily indebted tech companies, potentially slowing their investment in AI infrastructure. This financial pressure could cool the massive capital expenditure cycle driving AI development, affecting data center construction and chip purchases, and slowing AI innovation. Credit spreads reflect the risk premium over government bonds; when they widen, corporate borrowing becomes more expensive, especially for companies with high debt loads. The tech sector has been heavily reliant on debt financing for AI buildouts.
 
-rss · SCMP · Jul 25, 13:00
+rss · CNBC Top News · Jul 26, 11:46
 
-**Background**: AI models have grown to over 1 trillion parameters, requiring enormous compute power and memory that single chips cannot provide. Supernodes aggregate hundreds or thousands of chips \(GPUs, ASICs\) with specialized interconnects to act as one giant accelerator. This approach reduces latency and power consumption compared to conventional cluster computing. China is investing heavily in domestic supernode technology to reduce reliance on US-based chip suppliers like NVIDIA.
+**Background**: A credit spread is the difference in yield between a corporate bond and a risk-free government bond of the same maturity. It serves as a key indicator of market risk appetite and borrowing conditions. Many tech companies, including AI-focused firms, have taken on significant debt to fund large-scale infrastructure projects. Wider spreads signal tighter financial conditions, which could force companies to reassess their spending plans.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://gigaio.com/ai-inference-fine-tuning/">SuperNODE : AI Inference and Fine Tuning - GigaIO</a></li>
-<li><a href="https://www.alibabacloud.com/blog/in-depth-analysis-of-alibaba-cloud-panjiu-al128-supernode-ai-servers-and-their-interconnect-architecture_602665">In-depth Analysis of Alibaba Cloud Panjiu AL128 Supernode AI ...</a></li>
+<li><a href="https://www.investopedia.com/terms/c/creditspread.asp">Credit Spread: What It Means for Bonds and Options Strategy</a></li>
+<li><a href="https://www.sofi.com/learn/content/what-is-credit-spread/">What Is a Credit Spread? Explained and Defined - SoFi Credit Spread | Formula + Calculator - Wall Street Prep What Is a Credit Spread? - Binance Credit Spread - What Is It, Vs Debit Spread, Formula How to Interpret Credit Spreads and What Do They Indicate</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#supercomputing`, `#China`, `#US`, `#tech rivalry`
+**Tags**: `#AI`, `#corporate debt`, `#tech sector`, `#finance`, `#credit spreads`
 
 ---
 
 <a id="item-16"></a>
-## [Big Tech accused of denying EU researchers data access](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/) ⭐️ 6.0/10
+## [Why Kimi AI caused panic in Silicon Valley](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/) ⭐️ 5.0/10
 
-Researchers have accused TikTok, X \(formerly Twitter\), and Meta of failing to provide legally mandated data under the European Union&\#x27;s Digital Services Act \(DSA\), specifically Article 40, which grants vetted researchers access to platform data for studying systemic risks. This accusation highlights ongoing tensions between tech companies and regulators, as lack of data access hampers independent research on platform risks like misinformation and algorithmic bias, potentially undermining the DSA&\#x27;s transparency goals. The DSA&\#x27;s Article 40 requires very large online platforms \(VLOPs\) and search engines \(VLOSEs\) to provide data to vetted researchers upon request, but researchers claim the companies are stonewalling or providing insufficient data, delaying crucial studies.
+A podcast episode on Equity discussed the panic caused by Moonshot AI&\#x27;s Kimi in Silicon Valley and Wall Street. It highlights the growing impact of Chinese AI models on global markets and investor behavior. The episode analyzes the market and psychological reactions to Kimi&\#x27;s capabilities and Moonshot AI&\#x27;s rise.
 
-rss · Ars Technica · Jul 25, 10:45
+rss · TechCrunch · Jul 26, 19:40
 
-**Background**: The Digital Services Act \(DSA\) is an EU regulation that entered into force in 2022, creating a comprehensive framework for digital services accountability. Article 40 was designed to give qualified researchers access to non-public data from large platforms to study systemic risks, such as the spread of illegal content or disinformation.
+**Background**: Moonshot AI is a prominent Chinese AI startup known for its Kimi large language models. The company was founded in 2023 and has quickly gained attention for performance rivaling Western models. Kimi models, such as the Kimi Linear, have demonstrated strong capabilities in agentic tasks and coding.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Digital_Services_Act">Digital Services Act - Wikipedia</a></li>
-<li><a href="https://algorithmic-transparency.ec.europa.eu/news/faqs-dsa-data-access-researchers-2025-07-03_en">FAQs: DSA data access for researchers - European Centre for...</a></li>
-<li><a href="https://www.techpolicy.press/unpacking-the-eus-digital-services-act-delegated-act-on-data-access-/">Unpacking the EU’s Digital Services Act ... | TechPolicy.Press</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Moonshot_AI">Moonshot AI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kimi_%28AI%29">Kimi (AI) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#social media`, `#regulation`, `#data access`, `#Europe`, `#big tech`
+**Tags**: `#AI`, `#Chinese tech`, `#industry analysis`, `#Kimi`
 
 ---
 
 <a id="item-17"></a>
-## [AI Distillation Hits Policy Spotlight](https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html) ⭐️ 6.0/10
+## [AI Wealth Distribution Proposals for All Americans](https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html) ⭐️ 5.0/10
 
-AI distillation has suddenly become a central topic in both tech and policy circles, sparking intense debate over how it should be regulated. Regulatory decisions on distillation could reshape the AI industry, as the technique allows smaller models to achieve high performance, raising concerns about misuse and open-source distribution. Distillation, also known as knowledge distillation, involves a &\#x27;teacher-student&\#x27; architecture where a smaller model learns to mimic a larger model&\#x27;s outputs, often using softened probabilities from the teacher.
+A CNBC article explores various ideas, including radical ones, for distributing the wealth generated by artificial intelligence more broadly across the US population. As AI concentrates wealth among a few tech giants, this discussion is crucial for addressing economic inequality and shaping future policy. It could influence how the benefits of AI are shared in society. The article mentions that AI riches are already concentrated among a handful of powerful companies, but does not specify which proposals. The topic is more sociopolitical than technical.
 
-rss · CNBC Top News · Jul 25, 14:03
+rss · CNBC Top News · Jul 26, 14:06
 
-**Background**: Knowledge distillation is a machine learning technique where a large, complex model \(teacher\) transfers its knowledge to a smaller, simpler model \(student\). This allows the student to achieve similar accuracy with lower computational cost. The technique has gained prominence because it enables deployment of AI on edge devices and reduces energy consumption.
+**Background**: AI wealth distribution refers to ideas for sharing the economic gains from AI technologies with the broader public, beyond the companies that develop them. Proposals range from universal basic income funded by AI profits to taxing AI-driven automation. The debate has gained attention as AI&\#x27;s impact on jobs and inequality grows.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.concentrix.com/insights/blog/what-is-agentic-ai-and-ai-distillation/">What Is Agentic AI and AI Distillation ? - Concentrix</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#distillation`, `#regulation`, `#policy`
-
----
-
-<a id="item-18"></a>
-## [Finland&\#x27;s Town Deploys World&\#x27;s Largest Commercial Sand Battery](https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html) ⭐️ 6.0/10
-
-A small Finnish town has deployed the world&\#x27;s largest commercial sand battery to store renewable energy and address intermittency. This marks a notable commercial validation of sand battery technology, offering a low-cost, scalable solution for seasonal thermal energy storage that could accelerate renewable energy adoption. The sand battery uses sand as a thermal storage medium, storing excess renewable energy as heat that can be released for district heating during colder months.
-
-rss · CNBC Top News · Jul 25, 05:29
-
-**Background**: Renewable energy sources like wind and solar are intermittent, producing power only when conditions are favorable. Thermal energy storage systems, such as sand batteries, store excess energy as heat for later use. Sand is abundant, cheap, and can withstand high temperatures, making it an attractive storage medium.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://polarnightenergy.com/sand-battery/">Sand Battery - Polar Night Energy</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#renewable energy`, `#energy storage`, `#sand battery`, `#sustainability`
-
----
-
-<a id="item-19"></a>
-## [One-hour training boosts AI face detection](https://www.bbc.com/zhongwen/articles/cedjl1vvjdyo/trad?at_medium=RSS&amp;at_campaign=rss) ⭐️ 6.0/10
-
-A new study reveals that just one hour of training can significantly improve humans&\#x27; ability to distinguish AI-generated faces from real ones. This finding is important because humans are generally poor at spotting deepfakes, and improved detection skills could help combat misinformation and fraud. The training involved exposing participants to various AI-generated faces and providing feedback on their errors. The study&\#x27;s results suggest that even brief, targeted training can yield measurable improvements.
-
-rss · BBC 中文 · Jul 26, 02:54
-
-**Background**: AI-generated faces, often created by generative adversarial networks \(GANs\), are increasingly realistic and can be used maliciously, such as in deepfake videos or fake social media profiles. Most people perform no better than chance when trying to identify these synthetic faces without training.
-
-**Tags**: `#AI`, `#deepfakes`, `#facial recognition`, `#research`, `#computer vision`
-
----
-
-<a id="item-20"></a>
-## [AI education booms in China&\#x27;s vocational schools amid job fears](https://www.scmp.com/economy/china-economy/article/3361747/job-fears-changing-world-make-ai-hot-subject-chinas-vocational-schools?utm_source=rss_feed) ⭐️ 5.0/10
-
-Vocational schools in China, particularly in tech hubs like Shenzhen, are seeing a surge in AI-related courses as workers like 26-year-old Chen Hao seek to transition from traditional jobs into the artificial intelligence sector due to job security concerns. This trend highlights the growing importance of AI education in addressing workforce displacement and the need for reskilling in China&\#x27;s evolving economy, potentially shaping national policies on vocational training and labor market adaptation. Chen Hao, a vocational school graduate, worked as a salesman for five years without a pay raise and now aims to enter the AI sector, reflecting a broader pattern where vocational students pivot to emerging fields despite lacking advanced degrees.
-
-rss · SCMP · Jul 25, 06:00
-
-**Background**: Vocational schools in China provide practical skills training for occupations like manufacturing and services, typically at a lower academic level than universities. As AI and automation disrupt traditional jobs, many workers seek retraining to stay competitive. China&\#x27;s government has been promoting AI education at all levels to support its goal of becoming a global leader in artificial intelligence by 2030.
-
-**Tags**: `#AI`, `#vocational education`, `#China`, `#job market`, `#workforce`
-
----
-
-<a id="item-21"></a>
-## [Japan Courts India, Malaysia to Escape US-China AI Duopoly](https://www.scmp.com/news/asia/east-asia/article/3361827/japan-courts-india-malaysia-escape-us-china-ai-duopoly?utm_source=rss_feed) ⭐️ 5.0/10
-
-Japan is establishing formal AI dialogue frameworks with India and Malaysia, aiming to reduce dependence on US and Chinese AI companies and boost its own domestic AI ecosystem. This marks a strategic shift in global AI geopolitics, as middle powers band together to counter the dominance of the US and China in AI technology. It could reshape international AI cooperation and competition dynamics. The outreach is part of Japan&\#x27;s broader strategy to promote its domestic AI companies abroad and reduce reliance on top US and Chinese firms. The dialogues are with &\#x27;like-minded countries&\#x27; and Global South partners.
-
-rss · SCMP · Jul 25, 04:57
-
-**Background**: The United States and China currently dominate the global AI industry, with leading firms like OpenAI, Google, Baidu, and Tencent. Japan, while a tech powerhouse, has lagged behind in AI due to limited investment and a risk-averse corporate culture. By forming partnerships with India and Malaysia, Japan aims to create alternative AI supply chains and standards.
-
-**Tags**: `#geopolitics`, `#AI policy`, `#Japan`, `#Global South`
-
----
-
-<a id="item-22"></a>
-## [Monday.com joins tech firms blaming AI for layoffs in 2026](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) ⭐️ 5.0/10
-
-TechCrunch compiled a running list of over 20 major tech companies, including Monday.com, that have cited artificial intelligence as a reason for layoffs in 2026. This trend indicates that AI is increasingly being used as a justification for workforce reductions, reshaping the tech employment landscape and raising concerns about job displacement. The list is in reverse chronological order and includes notable companies, with Monday.com being the latest addition; TechCrunch notes that AI is a stated factor, though specific details vary by company.
-
-rss · TechCrunch · Jul 26, 01:30
-
-**Background**: The tech industry has seen a wave of layoffs since 2022, with companies increasingly pointing to AI automation and efficiency gains as reasons. This list tracks a specific narrative where AI is explicitly blamed for job cuts, reflecting broader anxieties about AI&\#x27;s impact on employment.
-
-**Tags**: `#layoffs`, `#AI`, `#tech industry`, `#news`
+**Tags**: `#AI`, `#wealth distribution`, `#economics`, `#policy`
 
 ---
